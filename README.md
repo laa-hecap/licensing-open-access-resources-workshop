@@ -20,12 +20,11 @@ Cada participante saldrá con: **(1)** una licencia definida para un material pr
 
 ## Estructura del Repositorio
 * `/slides`: Diapositivas del taller en formato Markdown (compatible con Marp/Reveal.js).
-* `/scripts`: Guion detallado para el facilitador.
 * `/ejercicios`: Ejercicios prácticos con sus soluciones.
 * `/handouts`: Materiales de apoyo (plantillas, checklists, etc.).
 * `/recursos`: FAQ, rúbrica, encuestas y referencias.
 
-## Agenda Detallada (3 horas)
+## Agenda (3 horas)
 
 | Hora (VET) | Tema | Actividad Clave |
 | :--- | :--- | :--- |
