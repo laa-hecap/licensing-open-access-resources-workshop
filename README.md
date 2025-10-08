@@ -12,11 +12,11 @@
 ---
 
 ## Descripción
-Taller 100% práctico para que el profesorado domine el uso de licencias Creative Commons (CC) en cursos, aulas virtuales y producción audiovisual. Partiremos del marco básico de derecho de autor y dominio público; luego veremos cómo elegir y aplicar la licencia adecuada (BY, SA, NC, ND, CC0, PDM) según objetivos pedagógicos e institucionales. Practicaremos la atribución correcta con **TASL** (Título, Autoría, Fuente, Licencia), la compatibilidad al remezclar y los riesgos habituales (música, logos/marcas, derechos de imagen).
+Taller práctico para que el profesorado domine el uso de licencias Creative Commons (CC) en cursos, aulas virtuales y producción audiovisual. Partiremos del marco básico de derecho de autor y dominio público; luego veremos cómo elegir y aplicar la licencia adecuada (BY, SA, NC, ND, CC0, PDM) según objetivos pedagógicos e institucionales. Practicaremos la atribución correcta con **TASL** (Título, Autoría, Fuente, Licencia), la compatibilidad al remezclar y los riesgos habituales (música, logos/marcas, derechos de imagen).
 
 Incluye una aclaratoria esencial sobre software: por qué CC no es para licenciar código y cuándo usar **MIT/Apache/GPL**. Cerraremos con un bloque de **IA generativa** en el aula: cómo declarar su uso, qué revisar en términos de servicio y cómo mantener la transparencia.
 
-Cada participante saldrá con: **(1)** una licencia definida para un material propio, **(2)** plantillas de atribución listas para copiar/pegar, y **(3)** una lista de verificación para publicar con confianza.
+Idealmente, al final del taller, cada participante podría tener: **(1)** una licencia definida para un material propio, **(2)** plantillas de atribución listas para copiar/pegar, y **(3)** una lista de verificación para publicar con confianza.
 
 ## Estructura del Repositorio
 * `/slides`: Diapositivas del taller en formato Markdown (compatible con Marp/Reveal.js).
